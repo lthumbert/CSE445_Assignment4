@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<Hotel>
+<Hotel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="https://lthumbert.github.io/CSE445_Assignment4/Hotels.xsd">
 	<Hotel>
 		<Phone>480-968-8885</Phone>
 		<Phone>800-937-8461</Phone>
