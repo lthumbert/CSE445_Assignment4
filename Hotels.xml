@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Hotels>
+	<Hotel>
+		<Name>Westin</Name>
+		<Phone>480-968-8885</Phone>
+		<Phone>800-937-8461</Phone>
+		<Address nearestAirport="Sky Harbor">
+			<Number>11</Number>
+			<Street>E.7th st</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+		</Address>
+		<Rating>4.2</Rating>
+	</Hotel>
+	<Hotel>
+		<Name>Hilton Two</Name>
+		<Phone>623-567-1212</Phone>
+		<Phone>667-236-6767</Phone>
+		<Address nearestAirport="The Sky Barbor">
+			<Number>7</Number>
+			<Street>E. Salad Way</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zip>85086</Zip>
+		</Address>
+		<Rating>5.0</Rating>
+	</Hotel>
+
+	<Hotel>
+		<Name>Hilton Three</Name>
+		<Phone>345-678-9101</Phone>
+		<Phone>109-876-5432</Phone>
+		<Address nearestAirport="Scottsdale Airport">
+			<Number>6</Number>
+			<Street>E. Veterans Way</Street>
+			<City>Anthem</City>
+			<State>AZ</State>
+			<Zip>85086</Zip>
+		</Address>
+		<Rating>4.1</Rating>
+	</Hotel>
+
+	<Hotel>
+		<Name>Hilton Four</Name>
+		<Phone>222-111-2222</Phone>
+		<Phone>444-555-4444</Phone>
+		<Address nearestAirport="Dusty Depot Flying">
+			<Number>5435</Number>
+			<Street>E.9th st</Street>
+			<City>Tilted Towers</City>
+			<State>TX</State>
+			<Zip>65463</Zip>
+		</Address>
+		<Rating>1.0</Rating>
+	</Hotel>
+
+	<Hotel>
+		<Name>Hilton Five</Name>
+		<Phone>777-9999-8778</Phone>
+		<Phone>123-444-6666</Phone>
+		<Address nearestAirport="Dusty Divot Air">
+			<Number>24</Number>
+			<Street>E.1th st</Street>
+			<City>Strawberry</City>
+			<State>AZ</State>
+			<Zip>37665</Zip>
+		</Address>
+		<Rating>4.4</Rating>
+	</Hotel>
+
+	<Hotel>
+		<Name>Hilton Six</Name>
+		<Phone>890-321-3452</Phone>
+		<Phone>000-000-0000</Phone>
+		<Address nearestAirport="Sky Harbor">
+			<Number>41</Number>
+			<Street>E.2th st</Street>
+			<City>Canva</City>
+			<State>TX</State>
+			<Zip>75432</Zip>
+		</Address>
+		<Rating>2.2</Rating>
+	</Hotel>
+
+	<Hotel>
+		<Name>Hilton Seven</Name>
+		<Phone>111-111-1111</Phone>
+		<Phone>222-222-2222</Phone>
+		<Address nearestAirport="Air International">
+			<Number>121</Number>
+			<Street>E.3th st</Street>
+			<City>Tempe</City>
+			<State>AZ</State>
+			<Zip>85281</Zip>
+		</Address>
+		<Rating>4.9</Rating>
+	</Hotel>
+
+	<Hotel>
+		<Name>Hilton Eight</Name>
+		<Phone>333-333-3333</Phone>
+		<Phone>444-444-4444</Phone>
+		<Address nearestAirport="Harbor Sky">
+			<Number>23</Number>
+			<Street>E.44th st</Street>
+			<City>Savage</City>
+			<State>MN</State>
+			<Zip>65653</Zip>
+		</Address>
+		<Rating>5.0</Rating>
+	</Hotel>
+
+	<Hotel>
+		<Name>Hilton Nine</Name>
+		<Phone>555-551-5555</Phone>
+		<Phone>766-666-6666</Phone>
+		<Address nearestAirport="Devil's Air">
+			<Number>1221</Number>
+			<Street>E.443th st</Street>
+			<City>Orange</City>
+			<State>CA</State>
+			<Zip>35346</Zip>
+		</Address>
+		<Rating>4.2</Rating>
+	</Hotel>
+
+	<Hotel>
+		<Name>Hilton Ten</Name>
+		<Phone>867-666-4333</Phone>
+		<Phone>222-999-2445</Phone>
+		<Address nearestAirport="Lucky Links Air">
+			<Number>67</Number>
+			<Street>E.67th st</Street>
+			<City>SixSevington</City>
+			<State>NY</State>
+			<Zip>64532</Zip>
+		</Address>
+		<Rating>1.0j</Rating>
+	</Hotel>
+</Hotels>
