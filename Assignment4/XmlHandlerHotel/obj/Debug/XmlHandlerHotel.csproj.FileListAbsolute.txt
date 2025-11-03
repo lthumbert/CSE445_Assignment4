@@ -1,0 +1,14 @@
+C:\Users\lthum\source\repos\Assignment4\XmlHandlerHotel\obj\Debug\XmlHandlerHotel.csproj.AssemblyReference.cache
+C:\Users\lthum\source\repos\Assignment4\XmlHandlerHotel\obj\Debug\XmlHandlerHotel.csproj.CoreCompileInputs.cache
+C:\Users\lthum\source\repos\Assignment4\XmlHandlerHotel\bin\Debug\Hotels.xml
+C:\Users\lthum\source\repos\Assignment4\XmlHandlerHotel\bin\Debug\submission.cs
+C:\Users\lthum\source\repos\Assignment4\XmlHandlerHotel\bin\Debug\Hotels.xsd
+C:\Users\lthum\source\repos\Assignment4\XmlHandlerHotel\bin\Debug\XmlHandlerHotel.exe.config
+C:\Users\lthum\source\repos\Assignment4\XmlHandlerHotel\bin\Debug\XmlHandlerHotel.exe
+C:\Users\lthum\source\repos\Assignment4\XmlHandlerHotel\bin\Debug\XmlHandlerHotel.pdb
+C:\Users\lthum\source\repos\Assignment4\XmlHandlerHotel\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lthum\source\repos\Assignment4\XmlHandlerHotel\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lthum\source\repos\Assignment4\XmlHandlerHotel\obj\Debug\XmlHandl.8D93A5EE.Up2Date
+C:\Users\lthum\source\repos\Assignment4\XmlHandlerHotel\obj\Debug\XmlHandlerHotel.exe
+C:\Users\lthum\source\repos\Assignment4\XmlHandlerHotel\obj\Debug\XmlHandlerHotel.pdb
+C:\Users\lthum\source\repos\Assignment4\XmlHandlerHotel\obj\Debug\XmlHandlerHotel.exe.config
